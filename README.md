@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## **Hi, I'm Flavia** 👋
+## **Hi, I'm Flavia Connectivy and Network Engineer focused on infraestructure, IT Support, rounting/switching , automation and monitoring** 👋
 
 <!--
 **FlaviaAA-1/FlaviaAA-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
