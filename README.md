@@ -1,6 +1,6 @@
 # Hi, I'm Flavia Welcome to my profile!
 
-A network engineer with hands-on experience in technical support, network administration, and help desk operations.Here I will upload projects related to my profession or technology in general. 
+A network engineer with hands-on experience in IT support, network administration, and help desk operations.Here I will upload projects related to my profession or technology in general. 
 
 
 #### 🚀 About Me
