@@ -6,22 +6,27 @@
 ## 🚀 About Me
 
 - 🌐 Network Infrastructure 
-- 🔒 Network Security Enthusiast
+- 🔒 Network Security 
 - 💻 IT Support 
-- 🤖 Network Automation with Python 
+- 🤖 Network Automation with Python Beginner 
 - 📡 Routing & Switching Expert
-- 📚 Continuous Learner
+- 📚 Studiying for the CCNA exam
+- 🔤English Intermediate B1 
+- 📕 Always studiying
+- 📋 Troubleshooting Expert
+- 📞 VoIP Expert
 
 
 
 ## 🛠️ Technologies & Tools
 
-### Networking
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=red)
+### Technologies
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-212121?style=for-the-badge&logo=python)
 
-### Protocols
+
+### Routing Protocols
 - BGP
 - OSPF
 - EIGRP
@@ -29,14 +34,32 @@
 - STP
 - IPv4 / IPv6
 
-### Security
+### Network Security 
 - Firewalls
 - VPN (IPsec)
 - IDS / IPS 
 
 ## 📫 Connect With Me
 
-- LinkedIn:![https://www.linkedin.com/in/flavia-arrochas]
+<p align="center">
+  <a href="https://www.linkedin.com/in/flavia-arrochas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviaAA-1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaAA-1&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlaviaAA-1&theme=tokyonight&hide_border=true" />
+</p>
+
 
 
 ---
