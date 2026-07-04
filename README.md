@@ -44,7 +44,7 @@ A network engineer with hands-on experience in technical support, network admini
 
 ---
 
-#### 📫 Connect With Me
+#### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/flavia-arrochas" target="_blank">
